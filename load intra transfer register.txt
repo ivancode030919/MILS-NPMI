@@ -1,0 +1,88 @@
+
+
+ Public Sub loadIntraTransRegister(lv As ListView, trnsferId As String, entryId As String, date1 As String, date2 As String, area As String, roleId As String, areaName As String)
+        'supervisor roleId 2016 change to roleId 20017 
+        'and manager roleId 20018 change to 20016 
+        'and encoder roleId 20019 change to 20018 
+        If roleId = "20016" Or roleId = "20016" Then
+            SQL.AddParam("@strDate", date1)
+            SQL.AddParam("@stpDate", date2)
+            SQL.AddParam("@entryId", entryId & "%")
+            SQL.AddParam("@trnsferId", trnsferId & "%")
+            SQL.AddParam("@areaName", areaName & "%")
+            SQL.ExecQueryDT("SELECT
+                                T0.dateTransfer
+                                ,T0.id
+                                ,T0.transferId
+                                ,T0.remarks_1
+                                ,(SELECT area FROM tblAreas WHERE id = T0.areaId)
+                                ,CONVERT(DATE, T0.encDate)
+                                ,T0.remarks
+                                FROM tblIntraTransferHeaders T0
+                                JOIN tblEmpDetails T1 ON T1.id = T0.encBy
+                        WHERE T0.dateTransfer BETWEEN @strDate AND @stpDate
+                        AND T0.transferId LIKE @trnsferId
+                        AND T0.id LIKE @entryId
+                        AND (SELECT area FROM tblAreas WHERE id = T0.areaId) LIKE @areaName
+                        ORDER BY T0.encDate;")
+            If SQL.HasException(True) Then Exit Sub
+            lv.Items.Clear()
+            lv.View = View.Details
+            lv.FullRowSelect = True
+            lv.GridLines = True
+            Dim itemNew As New ListViewItem
+            If SQL.RecordCountDT <> 0 Then
+                For Each r As DataRow In SQL.DBDT.Rows
+                    itemNew = lv.Items.Add(r(0))
+                    With itemNew
+                        .SubItems.Add(r(1))
+                        .SubItems.Add(r(2))
+                        .SubItems.Add(r(3))
+                        .SubItems.Add(r(4))
+                        .SubItems.Add(r(5))
+                        .SubItems.Add(r(6))
+                    End With
+                Next
+            End If
+        Else
+            SQL.AddParam("@strDate", date1)
+            SQL.AddParam("@stpDate", date2)
+            SQL.AddParam("@aId", area)
+            SQL.AddParam("@entryId", entryId & "%")
+            SQL.AddParam("@trnsferId", trnsferId & "%")
+            SQL.ExecQueryDT("SELECT
+                        T0.dateTransfer
+                        ,T0.id
+                        ,T0.transferId
+                        ,T0.remarks_1
+                        ,(SELECT area FROM tblAreas WHERE id = T0.areaId)
+                        ,CONVERT(DATE, T0.encDate)
+                        ,T0.remarks
+                        FROM tblIntraTransferHeaders T0
+                        JOIN tblEmpDetails T1 ON T1.id = T0.encBy
+                        WHERE T0.dateTransfer BETWEEN @strDate AND @stpDate
+                        AND T0.transferId LIKE @trnsferId
+                        AND T0.id LIKE @entryId
+                        AND T0.areaId = @aId
+                        ORDER BY T0.encDate;")
+            If SQL.HasException(True) Then Exit Sub
+            lv.Items.Clear()
+            lv.View = View.Details
+            lv.FullRowSelect = True
+            lv.GridLines = True
+            Dim itemNew As New ListViewItem
+            If SQL.RecordCountDT <> 0 Then
+                For Each r As DataRow In SQL.DBDT.Rows
+                    itemNew = lv.Items.Add(r(0))
+                    With itemNew
+                        .SubItems.Add(r(1))
+                        .SubItems.Add(r(2))
+                        .SubItems.Add(r(3))
+                        .SubItems.Add(r(4))
+                        .SubItems.Add(r(5))
+                        .SubItems.Add(r(6))
+                    End With
+                Next
+            End If
+        End If
+    End Sub

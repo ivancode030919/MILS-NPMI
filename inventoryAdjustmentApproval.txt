@@ -1,0 +1,36 @@
+Public Sub inventoryAdjustmentApproval(user As String, pass As String, area As String)
+        '-NEW COUNT ADJUSTMENT INVENTORY FORM WITH CONFIRMATION FORM
+        SQL.AddParam("@user", user)
+        SQL.AddParam("@pass", pass)
+        'SQL.AddParam("@area", area)
+        SQL.ExecQueryDT("SELECT DISTINCT T0.empId FROM tblUsers T0
+	                    INNER JOIN tblEmpDetails T1 ON T0.empId = T1.id
+                        INNER JOIN tblRoles T2 ON T1.role_id = T2.id
+	                    WHERE T0.username = @user
+                        AND (T0.pass = @pass)
+	                    AND (T1.status = 1)
+                        AND (T1.role_id IN (20016, 2017));") '--approval procedure approves only by the supervisor or manager
+        If SQL.HasException(True) Then Exit Sub
+        MessageBox.Show("Transaction Successfully Recorded.", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information)
+        If SQL.RecordCountDT > 0 Then
+            With adjustInventory
+                For Each r As DataRow In SQL.DBDT.Rows
+                    .approvedID = r(0)
+                Next
+                Home_Page.Enabled = True
+                adjustInventory.Enabled = True
+                confirmationFormAdjustInventory.Dispose()
+                .addDatas()
+            End With
+        Else
+            MessageBox.Show("Not valid account.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+                With confirmationFormAdjustInventory
+                    .tbxUser.Text = ""
+                    .tbxPass.Text = ""
+                    .lblError.Visible = False
+                    .tbxUser.Select()
+                End With
+                Exit Sub
+            End If
+
+    End Sub

@@ -1,0 +1,36 @@
+ Public Sub goodsAutoBuildConfirmationQry(user As String, pass As String)
+        SQL.AddParam("@user", user)
+        SQL.AddParam("@pas", pass)
+        '--NEW ITEM FORM FOR CONFIRMATION
+        SQL.ExecQueryDT("SELECT DISTINCT T0.empId FROM tblUsers T0
+	                    INNER JOIN tblEmpDetails T1 ON T1.id = T0.empId
+	                    INNER JOIN tblRoles T2 ON T1.role_id = T2.id 
+                        WHERE T0.username = @user 
+                        AND (T0.pass = @pas)
+	                    AND (T1.status = 1)
+                        AND (T1.role_id IN (20016, 2017));") '--approval procedure approves only by the supervisor or manager
+
+        If SQL.HasException(True) Then Exit Sub
+
+        If SQL.RecordCountDT > 0 Then
+            With goodsAutoBuild
+                For Each r As DataRow In SQL.DBDT.Rows
+                    .apprvdBy = r(0)
+                Next
+                Home_Page.Enabled = True
+                .Enabled = True
+                goodsAutoBuildConfirmation.Dispose()
+                .addDatas()
+            End With
+        Else
+            MessageBox.Show("Not valid account.", "Error",
+                           MessageBoxButtons.OK, MessageBoxIcon.Error)
+            With goodsAutoBuildConfirmation
+                .tbxUser.Text = ""
+                .tbxPass.Text = ""
+                .lblError.Visible = False
+                .tbxUser.Select()
+            End With
+            Exit Sub
+        End If
+    End Sub

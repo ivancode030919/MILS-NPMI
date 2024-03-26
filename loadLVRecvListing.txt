@@ -1,0 +1,340 @@
+Public Sub loadLVRecvListing(lv As ListView, sender As String, type As Boolean, dateFrom As String, dateTo As String, docType As String, docNum As String, area As String, roleId As String, areaName As String)
+        'supervisor roleId 2016 change to roleId 20017 and manager roleId 20018 change to 20016 
+        If roleId = "20016" Or roleId = "20017" Then
+            If type = True Then
+                SQL.AddParam("@dFrom", dateFrom)
+                SQL.AddParam("@dTo", dateTo)
+                SQL.AddParam("@sender", sender & "%")
+                SQL.AddParam("@docType", docType & "%")
+                SQL.AddParam("@docNum", docNum & "%")
+                SQL.AddParam("@area", area)
+                SQL.AddParam("@areaName", areaName & "%")
+                SQL.ExecQueryDT("SELECT TOP 50 
+                                    T0.docDate
+                                    ,T0.id
+                                    ,(SELECT docName FROM tblDocumentTypes WHERE id =T0.docType)
+                                    ,T0.docNo
+                                    ,(SELECT area FROM tblAreas WHERE id = T0.sender) 
+                                    ,(SELECT area FROM tblAreas WHERE id = T0.areaid)
+                                    ,CONVERT(DATE, T0.encDate)
+                                    ,(SELECT CONCAT(COALESCE([name]+ ',',''),COALESCE(lastname+ ' ',''),COALESCE(middlename,''))  FROM tblEmpDetails WHERE id = T0.encBy)
+                                    FROM tblRecvHeaders T0
+                                    JOIN tblEmpDetails T1
+                                    ON T1.id = T0.encBy
+                                WHERE T0.docDate BETWEEN @dFrom AND @dTo
+                                AND T0.docType LIKE @docType
+                                AND T0.docNo LIKE @docNum
+                                AND (SELECT area FROM tblAreas WHERE id = T0.areaid) LIKE @areaName
+                                ORDER BY T0.encDate;")
+                If SQL.HasException(True) Then Exit Sub
+                lv.Items.Clear()
+                lv.View = View.Details
+                lv.FullRowSelect = True
+                lv.GridLines = True
+                Dim itemNew As New ListViewItem
+                Try
+                    If SQL.RecordCountDT <> 0 Then
+                        For Each r As DataRow In SQL.DBDT.Rows
+                            itemNew = lv.Items.Add(r(0))
+                            With itemNew
+                                If Not IsDBNull(r(1)) Then
+                                    .SubItems.Add(r(1))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(2)) Then
+                                    .SubItems.Add(r(2))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(3)) Then
+                                    .SubItems.Add(r(3))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(4)) Then
+                                    .SubItems.Add(r(4))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(5)) Then
+                                    .SubItems.Add(r(5))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(6)) Then
+                                    .SubItems.Add(r(6))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(7)) Then
+                                    .SubItems.Add(r(7))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+                            End With
+                        Next
+                    End If
+                Catch ex As Exception
+                    MsgBox(ex.Message)
+                End Try
+            ElseIf type = False Then
+                SQL.AddParam("@dFrom", dateFrom)
+                SQL.AddParam("@dTo", dateTo)
+                SQL.AddParam("@sender", sender)
+                SQL.AddParam("@docType", docType + "%")
+                SQL.AddParam("@docNum", docNum + "%")
+                SQL.AddParam("@area", area)
+                SQL.AddParam("@areaName", areaName & "%")
+                SQL.ExecQueryDT("SELECT TOP 50 
+                                T0.docDate
+                                ,T0.id
+                                ,(SELECT docName FROM tblDocumentTypes WHERE id =T0.docType)
+                                ,T0.docNo
+                                ,(SELECT area FROM tblAreas WHERE id = T0.sender) 
+                                ,(SELECT area FROM tblAreas WHERE id = T0.areaid)
+                                ,CONVERT(DATE, T0.encDate)
+                                ,(SELECT CONCAT(COALESCE([name]+ ',',''),COALESCE(lastname+ ' ',''),COALESCE(middlename,''))  FROM tblEmpDetails WHERE id = T0.encBy)
+                                FROM tblRecvHeaders T0
+                                JOIN tblEmpDetails T1
+                                ON T1.id = T0.encBy
+                            WHERE T0.docDate BETWEEN @dFrom AND @dTo
+                            AND T0.docType LIKE @docType
+                            AND T0.docNo LIKE @docNum
+                            AND (SELECT area FROM tblAreas WHERE id = sender)  = @sender
+                            AND (SELECT area FROM tblAreas WHERE id = T0.areaid) LIKE @areaName
+                            ORDER BY T0.encDate;")
+                If SQL.HasException(True) Then Exit Sub
+                lv.Items.Clear()
+                lv.View = View.Details
+                lv.FullRowSelect = True
+                lv.GridLines = True
+                Dim itemNew As New ListViewItem
+                Try
+                    If SQL.RecordCountDT <> 0 Then
+                        For Each r As DataRow In SQL.DBDT.Rows
+                            itemNew = lv.Items.Add(r(0))
+                            With itemNew
+                                If Not IsDBNull(r(1)) Then
+                                    .SubItems.Add(r(1))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(2)) Then
+                                    .SubItems.Add(r(2))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(3)) Then
+                                    .SubItems.Add(r(3))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(4)) Then
+                                    .SubItems.Add(r(4))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(5)) Then
+                                    .SubItems.Add(r(5))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(6)) Then
+                                    .SubItems.Add(r(6))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(7)) Then
+                                    .SubItems.Add(r(7))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+                            End With
+                        Next
+                    End If
+                Catch ex As Exception
+                    MsgBox(ex.Message)
+                End Try
+            End If
+        Else
+            If type = True Then
+                SQL.AddParam("@dFrom", dateFrom)
+                SQL.AddParam("@dTo", dateTo)
+                SQL.AddParam("@sender", sender & "%")
+                SQL.AddParam("@docType", docType & "%")
+                SQL.AddParam("@docNum", docNum & "%")
+                SQL.AddParam("@area", area)
+                SQL.ExecQueryDT("SELECT TOP 50 
+                                T0.docDate
+                                ,T0.id
+                                ,(SELECT docName FROM tblDocumentTypes WHERE id =T0.docType)
+                                ,T0.docNo
+                                ,(SELECT area FROM tblAreas WHERE id = T0.sender) 
+                                ,(SELECT area FROM tblAreas WHERE id = T0.areaid)
+                                ,CONVERT(DATE, T0.encDate)
+                                ,(SELECT CONCAT(COALESCE([name]+ ',',''),COALESCE(lastname+ ' ',''),COALESCE(middlename,''))  FROM tblEmpDetails WHERE id = T0.encBy)
+                                FROM tblRecvHeaders T0
+                                JOIN tblEmpDetails T1
+                                ON T1.id = T0.encBy
+                            WHERE T0.docDate BETWEEN @dFrom AND @dTo
+                            AND T0.docType LIKE @docType
+                            AND T0.docNo LIKE @docNum
+                            AND T0.areaid = @area
+                            ORDER BY T0.encDate;")
+                If SQL.HasException(True) Then Exit Sub
+                lv.Items.Clear()
+                lv.View = View.Details
+                lv.FullRowSelect = True
+                lv.GridLines = True
+                Dim itemNew As New ListViewItem
+                Try
+                    If SQL.RecordCountDT <> 0 Then
+                        For Each r As DataRow In SQL.DBDT.Rows
+                            itemNew = lv.Items.Add(r(0))
+                            With itemNew
+                                If Not IsDBNull(r(1)) Then
+                                    .SubItems.Add(r(1))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(2)) Then
+                                    .SubItems.Add(r(2))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(3)) Then
+                                    .SubItems.Add(r(3))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(4)) Then
+                                    .SubItems.Add(r(4))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(5)) Then
+                                    .SubItems.Add(r(5))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(6)) Then
+                                    .SubItems.Add(r(6))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(7)) Then
+                                    .SubItems.Add(r(7))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+                            End With
+                        Next
+                    End If
+                Catch ex As Exception
+                    MsgBox(ex.Message)
+                End Try
+            ElseIf type = False Then
+                SQL.AddParam("@dFrom", dateFrom)
+                SQL.AddParam("@dTo", dateTo)
+                SQL.AddParam("@sender", sender)
+                SQL.AddParam("@docType", docType + "%")
+                SQL.AddParam("@docNum", docNum + "%")
+                SQL.AddParam("@area", area)
+                SQL.ExecQueryDT("SELECT TOP 50 
+                                T0.docDate
+                                ,T0.id
+                                ,(SELECT docName FROM tblDocumentTypes WHERE id =T0.docType)
+                                ,T0.docNo
+                                ,(SELECT area FROM tblAreas WHERE id = T0.sender) 
+                                ,(SELECT area FROM tblAreas WHERE id = T0.areaid)
+                                ,CONVERT(DATE, T0.encDate)
+                                ,(SELECT CONCAT(COALESCE([name]+ ',',''),COALESCE(lastname+ ' ',''),COALESCE(middlename,''))  FROM tblEmpDetails WHERE id = T0.encBy)
+                                FROM tblRecvHeaders T0
+                                JOIN tblEmpDetails T1
+                                ON T1.id = T0.encBy
+                            WHERE T0.docDate BETWEEN @dFrom AND @dTo
+                            AND T0.docType LIKE @docType
+                            AND T0.docNo LIKE @docNum
+                            AND (SELECT area FROM tblAreas WHERE id = sender)  = @sender
+                            AND T0.areaId = @area
+                            ORDER BY T0.encDate;")
+                If SQL.HasException(True) Then Exit Sub
+                lv.Items.Clear()
+                lv.View = View.Details
+                lv.FullRowSelect = True
+                lv.GridLines = True
+                Dim itemNew As New ListViewItem
+                Try
+                    If SQL.RecordCountDT <> 0 Then
+                        For Each r As DataRow In SQL.DBDT.Rows
+                            itemNew = lv.Items.Add(r(0))
+                            With itemNew
+                                If Not IsDBNull(r(1)) Then
+                                    .SubItems.Add(r(1))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(2)) Then
+                                    .SubItems.Add(r(2))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(3)) Then
+                                    .SubItems.Add(r(3))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(4)) Then
+                                    .SubItems.Add(r(4))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(5)) Then
+                                    .SubItems.Add(r(5))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(6)) Then
+                                    .SubItems.Add(r(6))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+
+                                If Not IsDBNull(r(7)) Then
+                                    .SubItems.Add(r(7))
+                                Else
+                                    .SubItems.Add("")
+                                End If
+                            End With
+                        Next
+                    End If
+                Catch ex As Exception
+                    MsgBox(ex.Message)
+                End Try
+            End If
+        End If
+    End Sub

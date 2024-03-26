@@ -1,0 +1,1315 @@
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Mils-Evermore.exe.config
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Mils-Evermore.exe
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Mils-Evermore.pdb
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Mils-Evermore.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\EnvDTE.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\stdole.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.MSXML.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.AssemblyReference.cache
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.ResolveComReference.cache
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Form1.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Form2.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Form3.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.TileSetup.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.itemstatus.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.newHome.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.exdate.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Print1.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Print2.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Aging.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.OPreport.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.StatusReport.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addnewitemlist.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.AgingSetup.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Mrtvupload.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Mrupload.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.area.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.areaAdd.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.areaDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.goodsAutoBuild.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.goodsAutoBuildConfirmation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.goodsList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.goodsRegister.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.goodsRegisterDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.inventoryAutoBuild.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.inventoryAutoBuildConfirmation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.inventoryGoods.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.inventoryGoodsDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectExpirationdate.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectProdABBatch.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectProdABLocations.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectProdABProducts.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.autoBuildSubFormBatch.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.autoBuildSubFormLocation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addBatchMain.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updateBatchConfirmation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updateBatchMain.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.viewBatch.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.consolidatedInvDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.consolidatedInventoryList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.consolidatedInvLocationDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.displayDocutypes.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.docuAdd.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.docuDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.documentTypes.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Loacationedit.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.EditExpirationdate.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.editexpiration.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.UpdateConfirmation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.UpdateDes.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Home_Page.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addLocationIntraTransfer.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intraTransfer.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intraTransferConfirmation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intraTransferLoadLocationTo.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intrTransferLoadProducts.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intraTransferDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intraTransferRegister.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.adjustInventory.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.confirmationFormAdjustInventory.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.adjustInventoryRegister.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.adjustInventoryRegisterDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.NewCountSelected.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.inventoryView.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.invViewDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addLocationMain.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updateLocationConfrimation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updateLocationMain.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.viewLocations.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.login_page.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Resources.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.ImportAnnualSales.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Orderpoitdetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.reorderingpoint.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.reordersetup.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.SELECTGOODS.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addreasoncode.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updatereasoncode.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.reasoncode.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvListing.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvListingDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvSelectBatch.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvSelectGood.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvSelectLocations.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectExpiration.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addNewBatch.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addNewLocation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvGoodsMain.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.releaseDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.releaseRegister.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.releaseGoods.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectProducts.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.reserveRelease.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectProdforReserveRelease.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.dateAnalysis.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Expirationdatereport.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Export.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.IGLR.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.IGLRSpecific.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.IGLRSummary.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.itemListSmmary.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.LocationContentList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.roles.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.rolesAdd.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.rolesDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updatemasterlist.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.users.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.usersAdd.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.usersDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.GenerateResource.cache
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\Mils-Evermore.exe.licenses
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\RdlCompile.cache
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\RdlCompile.compiled
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.CoreCompileInputs.cache
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.CopyComplete
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\Mils-Evermore.exe
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\Mils-Evermore.xml
+C:\Users\HSDP_SYS_DEV\Desktop\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\Mils-Evermore.pdb
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\x86\SqlServerSpatial160.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\x64\SqlServerSpatial160.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Mils-Evermore.exe.config
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Mils-Evermore.exe
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Mils-Evermore.pdb
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Mils-Evermore.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.Shared.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Data.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\AxShockwaveFlashObjects.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\EnvDTE.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ShockwaveFlashObjects.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\stdole.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\Microsoft.MSXML.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Data.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.AssemblyReference.cache
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.ResolveComReference.cache
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Form1.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Form2.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Form3.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.TileSetup.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.itemstatus.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.newHome.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.exdate.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Print1.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Print2.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Aging.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.OPreport.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.StatusReport.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addnewitemlist.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.AgingSetup.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Mrtvupload.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Mrupload.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.area.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.areaAdd.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.areaDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.goodsAutoBuild.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.goodsAutoBuildConfirmation.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.goodsList.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.goodsRegister.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.goodsRegisterDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.inventoryAutoBuild.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.inventoryAutoBuildConfirmation.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.inventoryGoods.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.inventoryGoodsDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectExpirationdate.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectProdABBatch.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectProdABLocations.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectProdABProducts.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.autoBuildSubFormBatch.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.autoBuildSubFormLocation.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addBatchMain.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updateBatchConfirmation.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updateBatchMain.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.viewBatch.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.consolidatedInvDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.consolidatedInventoryList.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.consolidatedInvLocationDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.displayDocutypes.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.docuAdd.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.docuDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.documentTypes.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Loacationedit.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.EditExpirationdate.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.editexpiration.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.UpdateConfirmation.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.UpdateDes.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Home_Page.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addLocationIntraTransfer.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intraTransfer.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intraTransferConfirmation.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intraTransferLoadLocationTo.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intrTransferLoadProducts.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intraTransferDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.intraTransferRegister.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.adjustInventory.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.confirmationFormAdjustInventory.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.adjustInventoryRegister.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.adjustInventoryRegisterDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.NewCountSelected.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.inventoryView.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.invViewDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addLocationMain.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updateLocationConfrimation.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updateLocationMain.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.viewLocations.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.login_page.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Resources.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.ImportAnnualSales.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Orderpoitdetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.reorderingpoint.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.reordersetup.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.SELECTGOODS.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addreasoncode.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updatereasoncode.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.reasoncode.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvListing.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvListingDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvSelectBatch.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvSelectGood.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvSelectLocations.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectExpiration.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addNewBatch.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.addNewLocation.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.recvGoodsMain.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.releaseDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.releaseRegister.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.releaseGoods.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectProducts.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.reserveRelease.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.selectProdforReserveRelease.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.dateAnalysis.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Expirationdatereport.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.Export.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.IGLR.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.IGLRSpecific.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.IGLRSummary.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.itemListSmmary.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.LocationContentList.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.roles.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.rolesAdd.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.rolesDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.updatemasterlist.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.users.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.usersAdd.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS.usersDetails.resources
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.GenerateResource.cache
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\Mils-Evermore.exe.licenses
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\RdlCompile.cache
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\RdlCompile.compiled
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.CoreCompileInputs.cache
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.CopyComplete
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\Mils-Evermore.exe
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\Mils-Evermore.xml
+D:\DEV SYSTEM\WORK AREA\Evermore\MILS\obj\Debug\Mils-Evermore.pdb
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\x86\SqlServerSpatial160.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\x64\SqlServerSpatial160.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Mils-Evermore.exe.config
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Mils-Evermore.exe
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Mils-Evermore.pdb
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Mils-Evermore.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.Shared.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Data.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\AxShockwaveFlashObjects.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\EnvDTE.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ShockwaveFlashObjects.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\stdole.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\Microsoft.MSXML.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Data.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.AssemblyReference.cache
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.ResolveComReference.cache
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Form1.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Form2.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Form3.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.TileSetup.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.itemstatus.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.newHome.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.exdate.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Print1.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Print2.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Aging.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.OPreport.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.StatusReport.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.addnewitemlist.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.AgingSetup.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Mrtvupload.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Mrupload.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.area.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.areaAdd.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.areaDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.goodsAutoBuild.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.goodsAutoBuildConfirmation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.goodsList.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.goodsRegister.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.goodsRegisterDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.inventoryAutoBuild.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.inventoryAutoBuildConfirmation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.inventoryGoods.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.inventoryGoodsDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.selectExpirationdate.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.selectProdABBatch.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.selectProdABLocations.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.selectProdABProducts.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.autoBuildSubFormBatch.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.autoBuildSubFormLocation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.addBatchMain.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.updateBatchConfirmation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.updateBatchMain.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.viewBatch.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.consolidatedInvDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.consolidatedInventoryList.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.consolidatedInvLocationDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.displayDocutypes.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.docuAdd.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.docuDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.documentTypes.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Loacationedit.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.EditExpirationdate.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.editexpiration.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.UpdateConfirmation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.UpdateDes.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Home_Page.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.addLocationIntraTransfer.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.intraTransfer.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.intraTransferConfirmation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.intraTransferLoadLocationTo.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.intrTransferLoadProducts.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.intraTransferDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.intraTransferRegister.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.adjustInventory.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.confirmationFormAdjustInventory.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.adjustInventoryRegister.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.adjustInventoryRegisterDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.NewCountSelected.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.inventoryView.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.invViewDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.addLocationMain.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.updateLocationConfrimation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.updateLocationMain.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.viewLocations.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.login_page.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Resources.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.ImportAnnualSales.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Orderpoitdetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.reorderingpoint.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.reordersetup.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.SELECTGOODS.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.addreasoncode.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.updatereasoncode.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.reasoncode.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.recvListing.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.recvListingDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.recvSelectBatch.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.recvSelectGood.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.recvSelectLocations.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.selectExpiration.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.addNewBatch.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.addNewLocation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.recvGoodsMain.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.releaseDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.releaseRegister.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.releaseGoods.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.selectProducts.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.reserveRelease.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.selectProdforReserveRelease.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.dateAnalysis.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Expirationdatereport.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.Export.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.IGLR.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.IGLRSpecific.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.IGLRSummary.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.itemListSmmary.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.LocationContentList.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.roles.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.rolesAdd.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.rolesDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.updatemasterlist.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.users.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.usersAdd.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS.usersDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.GenerateResource.cache
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\Mils-Evermore.exe.licenses
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\RdlCompile.cache
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\RdlCompile.compiled
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.CoreCompileInputs.cache
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.CopyComplete
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\Mils-Evermore.exe
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\Mils-Evermore.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Evermore\MILS\obj\Debug\Mils-Evermore.pdb
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\x86\SqlServerSpatial160.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\x64\SqlServerSpatial160.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Mils-Evermore.exe.config
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Mils-Evermore.exe
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Mils-Evermore.pdb
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Mils-Evermore.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.Shared.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Data.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Utils.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\AxShockwaveFlashObjects.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\EnvDTE.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ShockwaveFlashObjects.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Office.v21.2.Core.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\stdole.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\Microsoft.MSXML.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Data.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Utils.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraVerticalGrid.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\DevExpress.Office.v21.2.Core.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.XtraVerticalGrid.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.AssemblyReference.cache
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.ResolveComReference.cache
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Form1.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Form2.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Form3.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.TileSetup.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.itemstatus.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.newHome.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.exdate.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Print1.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Print2.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Aging.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.OPreport.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.StatusReport.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.addnewitemlist.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.AgingSetup.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Mrtvupload.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Mrupload.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.area.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.areaAdd.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.areaDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.goodsAutoBuild.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.goodsAutoBuildConfirmation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.goodsList.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.goodsRegister.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.goodsRegisterDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.inventoryAutoBuild.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.inventoryAutoBuildConfirmation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.inventoryGoods.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.inventoryGoodsDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.selectExpirationdate.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.selectProdABBatch.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.selectProdABLocations.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.selectProdABProducts.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.autoBuildSubFormBatch.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.autoBuildSubFormLocation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.addBatchMain.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.updateBatchConfirmation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.updateBatchMain.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.viewBatch.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.consolidatedInvDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.consolidatedInventoryList.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.consolidatedInvLocationDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.displayDocutypes.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.docuAdd.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.docuDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.documentTypes.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Loacationedit.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.EditExpirationdate.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.editexpiration.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.UpdateConfirmation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.UpdateDes.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Home_Page.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.addLocationIntraTransfer.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.intraTransfer.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.intraTransferConfirmation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.intraTransferLoadLocationTo.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.intrTransferLoadProducts.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.intraTransferDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.intraTransferRegister.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.adjustInventory.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.confirmationFormAdjustInventory.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.adjustInventoryRegister.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.adjustInventoryRegisterDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.NewCountSelected.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.inventoryView.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.invViewDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.addLocationMain.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.updateLocationConfrimation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.updateLocationMain.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.viewLocations.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.login_page.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Resources.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.ImportAnnualSales.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Orderpoitdetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.reorderingpoint.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.reordersetup.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.SELECTGOODS.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.addreasoncode.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.updatereasoncode.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.reasoncode.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.recvListing.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.recvListingDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.recvSelectBatch.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.recvSelectGood.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.recvSelectLocations.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.selectExpiration.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.addNewBatch.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.addNewLocation.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.recvGoodsMain.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.releaseDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.releaseRegister.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.releaseGoods.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.selectProducts.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.reserveRelease.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.selectProdforReserveRelease.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.dateAnalysis.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Expirationdatereport.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.Export.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.IGLR.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.IGLRSpecific.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.IGLRSummary.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.itemListSmmary.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.LocationContentList.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.roles.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.rolesAdd.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.rolesDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.updatemasterlist.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.users.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.usersAdd.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS.usersDetails.resources
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.GenerateResource.cache
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\Mils-Evermore.exe.licenses
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\RdlCompile.cache
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\RdlCompile.compiled
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.CoreCompileInputs.cache
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.CopyComplete
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\Mils-Evermore.exe
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\Mils-Evermore.xml
+D:\DEV SYSTEM\LOCAL SYSTEM\LOCAL EVERMORE\Deployment for davao\Evermore\MILS\obj\Debug\Mils-Evermore.pdb
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.AssemblyReference.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.ResolveComReference.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Form1.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Form2.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Form3.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.TileSetup.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.itemstatus.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.newHome.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.exdate.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Print1.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Print2.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Aging.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.OPreport.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.StatusReport.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.addnewitemlist.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.AgingSetup.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Mrtvupload.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Mrupload.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.area.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.areaAdd.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.areaDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.goodsAutoBuild.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.goodsAutoBuildConfirmation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.goodsList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.goodsRegister.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.goodsRegisterDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.inventoryAutoBuild.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.inventoryAutoBuildConfirmation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.inventoryGoods.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.inventoryGoodsDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.selectExpirationdate.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.selectProdABBatch.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.selectProdABLocations.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.selectProdABProducts.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.autoBuildSubFormBatch.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.autoBuildSubFormLocation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.addBatchMain.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.updateBatchConfirmation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.updateBatchMain.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.viewBatch.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.consolidatedInvDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.consolidatedInventoryList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.consolidatedInvLocationDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.displayDocutypes.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.docuAdd.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.docuDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.documentTypes.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Loacationedit.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.EditExpirationdate.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.editexpiration.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.UpdateConfirmation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.UpdateDes.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Home_Page.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.addLocationIntraTransfer.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.intraTransfer.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.intraTransferConfirmation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.intraTransferLoadLocationTo.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.intrTransferLoadProducts.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.intraTransferDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.intraTransferRegister.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.adjustInventory.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.confirmationFormAdjustInventory.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.adjustInventoryRegister.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.adjustInventoryRegisterDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.NewCountSelected.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.inventoryView.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.invViewDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.addLocationMain.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.updateLocationConfrimation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.updateLocationMain.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.viewLocations.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.login_page.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Resources.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.ImportAnnualSales.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Orderpoitdetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.reorderingpoint.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.reordersetup.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.SELECTGOODS.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.addreasoncode.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.updatereasoncode.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.reasoncode.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.recvListing.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.recvListingDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.recvSelectBatch.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.recvSelectGood.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.recvSelectLocations.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.selectExpiration.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.addNewBatch.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.addNewLocation.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.recvGoodsMain.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.releaseDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.releaseRegister.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.releaseGoods.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.selectProducts.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.reserveRelease.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.selectProdforReserveRelease.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.dateAnalysis.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Expirationdatereport.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.Export.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.IGLR.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.IGLRSpecific.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.IGLRSummary.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.itemListSmmary.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.LocationContentList.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.roles.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.rolesAdd.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.rolesDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.updatemasterlist.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.users.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.usersAdd.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS.usersDetails.resources
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.GenerateResource.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\Mils-Evermore.exe.licenses
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\RdlCompile.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\RdlCompile.compiled
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\MILS-Evermore.vbproj.CoreCompileInputs.cache
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\Mils-Evermore.exe
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\Mils-Evermore.xml
+C:\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS\obj\Debug\Mils-Evermore.pdb
