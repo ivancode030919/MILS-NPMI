@@ -285,7 +285,8 @@ Public Class releaseDetails
             Print2.pr = 2
             Print2.ShowDialog()
 
-        ElseIf cbxReceiver.Text = "OS Customer" Then
+
+        ElseIf cbxReceiver.Text = "OS CUSTOMER" Then
 
             Dim rels As String = cbxReceiver.Text
             Dim area2 As String = area1.ToString
