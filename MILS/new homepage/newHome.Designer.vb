@@ -759,7 +759,7 @@ Partial Class newHome
         Me.FluentDesignFormContainer1.Appearance.BackColor = System.Drawing.Color.Transparent
         Me.FluentDesignFormContainer1.Appearance.Options.UseBackColor = True
         Me.FluentDesignFormContainer1.AutoScroll = False
-        Me.FluentDesignFormContainer1.BackgroundImage = Global.MILS.My.Resources.Resources.evergreen1
+        Me.FluentDesignFormContainer1.BackgroundImage = Global.MILS.My.Resources.Resources.homepage_wallpaper6
         Me.FluentDesignFormContainer1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom
         Me.FluentDesignFormContainer1.Controls.Add(Me.PanelControl1)
         Me.FluentDesignFormContainer1.Dock = System.Windows.Forms.DockStyle.Fill

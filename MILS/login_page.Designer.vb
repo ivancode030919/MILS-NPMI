@@ -37,7 +37,7 @@ Partial Class login_page
         'tbxUser
         '
         Me.tbxUser.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tbxUser.Location = New System.Drawing.Point(352, 328)
+        Me.tbxUser.Location = New System.Drawing.Point(352, 304)
         Me.tbxUser.Name = "tbxUser"
         Me.tbxUser.Size = New System.Drawing.Size(328, 26)
         Me.tbxUser.TabIndex = 1
@@ -45,7 +45,7 @@ Partial Class login_page
         'tbxPass
         '
         Me.tbxPass.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.tbxPass.Location = New System.Drawing.Point(352, 366)
+        Me.tbxPass.Location = New System.Drawing.Point(352, 355)
         Me.tbxPass.Name = "tbxPass"
         Me.tbxPass.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.tbxPass.Size = New System.Drawing.Size(328, 26)
@@ -54,7 +54,7 @@ Partial Class login_page
         'btnCanel
         '
         Me.btnCanel.Font = New System.Drawing.Font("Franklin Gothic Book", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnCanel.Location = New System.Drawing.Point(352, 412)
+        Me.btnCanel.Location = New System.Drawing.Point(352, 398)
         Me.btnCanel.Name = "btnCanel"
         Me.btnCanel.Size = New System.Drawing.Size(139, 38)
         Me.btnCanel.TabIndex = 4
@@ -64,7 +64,7 @@ Partial Class login_page
         'btnLogin
         '
         Me.btnLogin.Font = New System.Drawing.Font("Franklin Gothic Book", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnLogin.Location = New System.Drawing.Point(541, 412)
+        Me.btnLogin.Location = New System.Drawing.Point(541, 398)
         Me.btnLogin.Name = "btnLogin"
         Me.btnLogin.Size = New System.Drawing.Size(139, 38)
         Me.btnLogin.TabIndex = 3
@@ -92,7 +92,7 @@ Partial Class login_page
         '
         Me.PictureBox1.BackColor = System.Drawing.Color.Transparent
         Me.PictureBox1.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.PictureBox1.Image = Global.MILS.My.Resources.Resources.evermore22
+        Me.PictureBox1.Image = Global.MILS.My.Resources.Resources.pmni_new_logo
         Me.PictureBox1.Location = New System.Drawing.Point(0, 0)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(874, 524)
