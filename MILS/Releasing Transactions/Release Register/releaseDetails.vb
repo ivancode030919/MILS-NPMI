@@ -289,11 +289,12 @@ Public Class releaseDetails
         ElseIf cbxReceiver.Text = "OS CUSTOMER" Then
 
             Dim rels As String = cbxReceiver.Text
-            Dim area2 As String = area1.ToString
+            Dim area2 As String = tbxRemarks.Text
             Dim currentDate As Date = Date.Today
             Dim ser As String = series1
             Dim datatable1 As DataTable
             Dim dataset As New DataSet("Dataset")
+
 
             datatable1 = New DataTable("Mydatatable")
             datatable1.Columns.Add("goodId")
@@ -330,8 +331,8 @@ Public Class releaseDetails
             Print2.ReportViewer2.LocalReport.SetParameters(par2)
 
             'Dim par3 As New ReportParameter("remarks", "Issued To: " + rels)
-            Dim par3 As New ReportParameter("remarks", rels)
-            Print2.ReportViewer2.LocalReport.SetParameters(par3)
+            'Dim par3 As New ReportParameter("remarks", rels)
+            'Print2.ReportViewer2.LocalReport.SetParameters(par3)
 
             Print2.ReportViewer2.RefreshReport()
 

@@ -241,7 +241,6 @@ Partial Class newHome
         Me.AccordionControlElement4.Appearance.Default.Font = New System.Drawing.Font("Franklin Gothic Book", 14.0!, System.Drawing.FontStyle.Bold)
         Me.AccordionControlElement4.Appearance.Default.Options.UseFont = True
         Me.AccordionControlElement4.Elements.AddRange(New DevExpress.XtraBars.Navigation.AccordionControlElement() {Me.AccordionControlElement6, Me.AccordionControlElement7})
-        Me.AccordionControlElement4.Expanded = True
         Me.AccordionControlElement4.ImageOptions.SvgImage = CType(resources.GetObject("AccordionControlElement4.ImageOptions.SvgImage"), DevExpress.Utils.Svg.SvgImage)
         Me.AccordionControlElement4.Name = "AccordionControlElement4"
         Me.AccordionControlElement4.Text = "Release"
