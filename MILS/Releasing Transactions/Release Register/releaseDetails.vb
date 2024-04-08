@@ -339,6 +339,53 @@ Public Class releaseDetails
             Print2.pr = 1
             Print2.ShowDialog()
 
+        ElseIf cbxReceiver.Text = "COMPANY EXPENSE" Then
+
+            Dim remark As String = tbxRemarks.Text
+            Dim area2 As String = area1.ToString
+            Dim currentDate As Date = Date.Today
+            Dim ser As String = series1
+            Dim datatable1 As DataTable
+            Dim dataset As New DataSet("Dataset")
+
+            datatable1 = New DataTable("Mydatatable")
+            datatable1.Columns.Add("goodId")
+            datatable1.Columns.Add("goodDes")
+            datatable1.Columns.Add("qty")
+
+
+            dataset.Tables.Add(datatable1)
+            For Each row As DataGridViewRow In dg1.Rows
+                If Not row.IsNewRow Then
+                    Dim datarow2 As DataRow = datatable1.NewRow
+                    datarow2("goodId") = row.Cells(1).Value.ToString
+                    datarow2("goodDes") = row.Cells(2).Value.ToString
+                    datarow2("qty") = row.Cells(5).Value.ToString
+                    datatable1.Rows.Add(datarow2)
+                End If
+            Next
+
+            Dim reportDataSource As New ReportDataSource("DataSet2", datatable1)
+            Print2.ReportViewer2.LocalReport.DataSources.Clear()
+            Print2.ReportViewer2.LocalReport.DataSources.Add(reportDataSource)
+            Print2.ReportViewer2.LocalReport.ReportPath = q.path + "Releasing Transactions\Release Register\Report6.rdlc"
+
+            Dim par As New ReportParameter("branch", area2)
+            Print2.ReportViewer2.LocalReport.SetParameters(par)
+
+            Dim par1 As New ReportParameter("date", currentDate)
+            Print2.ReportViewer2.LocalReport.SetParameters(par1)
+
+            Dim par2 As New ReportParameter("series", ser)
+            Print2.ReportViewer2.LocalReport.SetParameters(par2)
+
+            Dim par3 As New ReportParameter("remarks", remark)
+            Print2.ReportViewer2.LocalReport.SetParameters(par3)
+
+            Print2.ReportViewer2.RefreshReport()
+
+
+            Print2.ShowDialog()
         Else
 
             Dim rels As String = cbxReceiver.Text

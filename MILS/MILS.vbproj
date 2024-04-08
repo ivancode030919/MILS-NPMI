@@ -872,6 +872,7 @@
     <EmbeddedResource Include="Releasing Transactions\Release Register\Report2.rdlc" />
     <EmbeddedResource Include="Releasing Transactions\Release Register\Report3.rdlc" />
     <EmbeddedResource Include="Releasing Transactions\Release Register\Report5.rdlc" />
+    <EmbeddedResource Include="Releasing Transactions\Release Register\Report6.rdlc" />
     <EmbeddedResource Include="Report\Aging.resx">
       <DependentUpon>Aging.vb</DependentUpon>
     </EmbeddedResource>

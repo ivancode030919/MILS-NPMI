@@ -8363,5 +8363,46 @@ FROM tblProductsABHeaders T1
         End If
     End Sub
 
+    'fetch series for Document Number in Releasing : Goods Receipt Form : For Company expense
+    Public Sub FetchSeriesinReleasingCE()
+
+        SQL.ExecQueryDT("Select TOP 1 series from tblRelsHeader where docType = 50027 order by id desc")
+
+        ' Check for any exceptions during the SQL query execution
+        If SQL.HasException(True) Then Exit Sub
+
+        ' Check if there is a record returned from the query
+        If SQL.RecordCountDT <> 0 Then
+            ' Retrieve the series value from the first row of the result
+            Dim originalSeries As String
+            originalSeries = SQL.DBDT.Rows(0)("series").ToString()
+
+            ' Extract the numeric part from the series value
+            Dim numericPart As Integer
+
+            If Integer.TryParse(originalSeries.Split("-"c)(1), numericPart) Then
+                ' Increment the numeric part by 1
+                numericPart += 1
+
+                ' Format the incremented series value back into the original format
+                Dim incrementedSeries As String = "1-" & numericPart.ToString("00000")
+
+                With releaseGoods
+                    .series1 = incrementedSeries
+                End With
+
+            End If
+
+        Else
+
+            Dim defaultSeries As String = "1-00001"
+
+            With releaseGoods
+                .series1 = defaultSeries
+            End With
+
+        End If
+    End Sub
+
 End Class
 
