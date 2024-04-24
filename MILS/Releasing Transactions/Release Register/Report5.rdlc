@@ -522,6 +522,38 @@
               <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
+          <Textbox Name="remarks">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>=Parameters!remarks.Value</Value>
+                    <Style>
+                      <FontFamily>Arial Rounded MT Bold</FontFamily>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>remarks</rd:DefaultName>
+            <Top>5.09681cm</Top>
+            <Left>2.27375cm</Left>
+            <Height>0.5377cm</Height>
+            <Width>9.96959cm</Width>
+            <ZIndex>8</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
           <Textbox Name="Textbox17">
             <CanGrow>true</CanGrow>
             <KeepTogether>true</KeepTogether>
@@ -544,7 +576,40 @@
             <Left>0.56279cm</Left>
             <Height>0.5377cm</Height>
             <Width>2.52389cm</Width>
-            <ZIndex>8</ZIndex>
+            <ZIndex>9</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox18">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>TIN:</Value>
+                    <Style>
+                      <FontFamily>Arial Rounded MT Bold</FontFamily>
+                      <FontSize>9pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox7</rd:DefaultName>
+            <Top>5.12383cm</Top>
+            <Left>13.10271cm</Left>
+            <Height>0.5377cm</Height>
+            <Width>1.26299cm</Width>
+            <ZIndex>10</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -560,7 +625,19 @@
             <Left>2.6449cm</Left>
             <Height>0cm</Height>
             <Width>6.29114cm</Width>
-            <ZIndex>9</ZIndex>
+            <ZIndex>11</ZIndex>
+            <Style>
+              <Border>
+                <Style>Solid</Style>
+              </Border>
+            </Style>
+          </Line>
+          <Line Name="Line6">
+            <Top>5.62625cm</Top>
+            <Left>13.88469cm</Left>
+            <Height>0cm</Height>
+            <Width>5.80655cm</Width>
+            <ZIndex>12</ZIndex>
             <Style>
               <Border>
                 <Style>Solid</Style>
@@ -572,22 +649,67 @@
             <Left>14.37232cm</Left>
             <Height>0cm</Height>
             <Width>5.31893cm</Width>
-            <ZIndex>10</ZIndex>
+            <ZIndex>13</ZIndex>
             <Style>
               <Border>
                 <Style>Solid</Style>
               </Border>
             </Style>
           </Line>
-          <Image Name="Image2">
+          <Textbox Name="Textbox12">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Branch:</Value>
+                    <Style>
+                      <FontFamily>Arial Rounded MT Bold</FontFamily>
+                      <FontSize>9pt</FontSize>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style />
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox7</rd:DefaultName>
+            <Top>5.09681cm</Top>
+            <Left>0.56278cm</Left>
+            <Height>0.5377cm</Height>
+            <Width>1.71097cm</Width>
+            <ZIndex>14</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+              <PaddingLeft>2pt</PaddingLeft>
+              <PaddingRight>2pt</PaddingRight>
+              <PaddingTop>2pt</PaddingTop>
+              <PaddingBottom>2pt</PaddingBottom>
+            </Style>
+          </Textbox>
+          <Line Name="Line10">
+            <Top>5.63451cm</Top>
+            <Left>1.96527cm</Left>
+            <Height>0cm</Height>
+            <Width>6.97077cm</Width>
+            <ZIndex>15</ZIndex>
+            <Style>
+              <Border>
+                <Style>Solid</Style>
+              </Border>
+            </Style>
+          </Line>
+          <Image Name="Image1">
             <Source>Embedded</Source>
             <Value>pnmilogo</Value>
             <Sizing>FitProportional</Sizing>
-            <Top>0.36724cm</Top>
-            <Left>0.56279cm</Left>
-            <Height>2.01508cm</Height>
-            <Width>12.10388cm</Width>
-            <ZIndex>11</ZIndex>
+            <Top>0.59683cm</Top>
+            <Left>0.56278cm</Left>
+            <Height>1.64438cm</Height>
+            <Width>8.61729cm</Width>
+            <ZIndex>16</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -630,6 +752,10 @@
       <DataType>String</DataType>
       <Prompt>ReportParameter1</Prompt>
     </ReportParameter>
+    <ReportParameter Name="remarks">
+      <DataType>String</DataType>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
   </ReportParameters>
   <ReportParametersLayout>
     <GridLayoutDefinition>
@@ -650,6 +776,11 @@
           <ColumnIndex>2</ColumnIndex>
           <RowIndex>0</RowIndex>
           <ParameterName>series</ParameterName>
+        </CellDefinition>
+        <CellDefinition>
+          <ColumnIndex>3</ColumnIndex>
+          <RowIndex>0</RowIndex>
+          <ParameterName>remarks</ParameterName>
         </CellDefinition>
       </CellDefinitions>
     </GridLayoutDefinition>

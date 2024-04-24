@@ -432,6 +432,7 @@
             tbxDocNum.Text = String.Empty
         End If
         q.fetchIdDocType(tbxDocType.Text)
+
     End Sub
     Private Sub RecvGoodsMain_KeyDown(sender As Object, e As KeyEventArgs) Handles MyBase.KeyDown
         If e.KeyCode = Keys.Escape Then

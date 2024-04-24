@@ -5,11 +5,11 @@ Public Class sqlcon
 
     '----ivan local DB
 
-    Public DBCon As New SqlConnection("Data Source=172.16.10.218;Initial Catalog=EMILS_tes;User ID=HSDPi;Password=123456$hsdp")
+    'Public DBCon As New SqlConnection("Data Source=172.16.10.218;Initial Catalog=EMILS_tes;User ID=HSDPi;Password=123456$hsdp")
 
     ''EVERMORE DB
 
-    'Public DBCon As New SqlConnection("Data Source=172.16.7.7;Initial Catalog=EvermoreDB_GSC;User ID=HSDP_DEPOT;Password=123456$hsdp")
+    Public DBCon As New SqlConnection("Data Source=172.16.7.7;Initial Catalog=PMNI_DB;User ID=HSDP_DEPOT;Password=123456$hsdp")
 
     Public DBCmd As SqlCommand
 

@@ -742,10 +742,10 @@
             <Source>Embedded</Source>
             <Value>pnmilogo</Value>
             <Sizing>FitProportional</Sizing>
-            <Top>0.7112cm</Top>
+            <Top>0.59003cm</Top>
             <Left>0.97029cm</Left>
-            <Height>1.52321cm</Height>
-            <Width>10.44841cm</Width>
+            <Height>1.64438cm</Height>
+            <Width>8.61729cm</Width>
             <ZIndex>16</ZIndex>
             <Style>
               <Border>
