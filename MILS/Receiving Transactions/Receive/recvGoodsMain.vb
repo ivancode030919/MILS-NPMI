@@ -1,5 +1,8 @@
-﻿Public Class recvGoodsMain
+﻿Imports Microsoft.Reporting.WinForms
+
+Public Class recvGoodsMain
     Private q As New qry
+    Private y As New qryv3
     Public docTypeId As String
     Public docRefTypeId As String
     Public senderId As String
@@ -7,20 +10,21 @@
     Private slctedRow As Integer
     Public series As String = ""
     Public areacode As String = ""
+    Public docCode As String = ""
+    Public branch As String = ""
 
     Private Sub recvGoodsMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         dtpRefDate.MaxDate = DateTime.Now
         loadForm()
         Me.Focus()
         Me.Select()
+
         q.loadSender(cbxSender)
         doctypeselect()
     End Sub
 
     Sub loadForm()
         cbxOwnership.SelectedIndex = 0
-
-
         cbxSender.SelectedIndex = -1
         loadTbxDocType()
         loadtbxRefDocType()
@@ -96,6 +100,7 @@
             tbxDocType.Text = ""
         End If
         senderId = q.fetchSenderId(cbxSender.Text)
+        q.fetchIdDocType(tbxDocType.Text)
     End Sub
 
     Sub clearfields()
@@ -110,7 +115,7 @@
         tbxRefDocNum.Text = ""
         cbxOwnership.SelectedIndex = 0
         dgvRecv.Rows.Clear()
-
+        TextBox1.Text = String.Empty
     End Sub
 
     Sub newDGVFormat()
@@ -308,6 +313,7 @@
                 .dgvRecv.AllowUserToAddRows = True
                 .dgvRecv.Enabled = True
             End With
+            Button1.Visible = False
             clearfields()
             cbxSender.Select()
             btnAdd.Text = "Record"
@@ -431,8 +437,6 @@
             tbxDocNum.Enabled = True
             tbxDocNum.Text = String.Empty
         End If
-        q.fetchIdDocType(tbxDocType.Text)
-
     End Sub
     Private Sub RecvGoodsMain_KeyDown(sender As Object, e As KeyEventArgs) Handles MyBase.KeyDown
         If e.KeyCode = Keys.Escape Then
@@ -441,6 +445,132 @@
     End Sub
 
     Private Sub tbxDocNum_TextChanged(sender As Object, e As EventArgs) Handles tbxDocNum.TextChanged
+
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs)
+    End Sub
+
+    Private Sub SimpleButton1_Click(sender As Object, e As EventArgs)
+        q.fetchIdDocType(tbxDocType.Text)
+
+    End Sub
+
+    Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles Button1.Click
+        y.FetchArea()
+        q.fetchreferencename(docRefTypeId)
+
+        If cbxSender.Text = "SUPPLIER" Then
+
+            Dim from As String = ComboBox1.Text
+            Dim area1 As String = branch
+            Dim currentDate As Date = Date.Today
+            Dim ser As String = series
+            Dim cour As String = TextBox1.Text
+            Dim refo As String = docCode + "-" + tbxRefDocNum.Text
+            Dim datatable1 As DataTable
+            Dim dataset As New DataSet("Dataset")
+
+            datatable1 = New DataTable("Mydatatable")
+            datatable1.Columns.Add("goodId")
+            datatable1.Columns.Add("goodDes")
+            datatable1.Columns.Add("qty")
+
+            dataset.Tables.Add(datatable1)
+            For Each row As DataGridViewRow In dgvRecv.Rows
+                If Not row.IsNewRow Then
+                    Dim datarow2 As DataRow = datatable1.NewRow
+                    datarow2("goodId") = row.Cells(1).Value.ToString
+                    datarow2("goodDes") = row.Cells(2).Value.ToString
+                    datarow2("qty") = row.Cells(5).Value.ToString
+
+                    datatable1.Rows.Add(datarow2)
+                End If
+            Next
+
+            Dim reportDataSource As New ReportDataSource("DataSet1", datatable1)
+            Print1.ReportViewer1.LocalReport.DataSources.Clear()
+            Print1.ReportViewer1.LocalReport.DataSources.Add(reportDataSource)
+            Print1.ReportViewer1.LocalReport.ReportPath = q.path + "Receiving Transactions\Listing\Report4.rdlc"
+
+            Dim par As New ReportParameter("branch", area1)
+            Print1.ReportViewer1.LocalReport.SetParameters(par)
+
+            Dim par1 As New ReportParameter("date", currentDate)
+            Print1.ReportViewer1.LocalReport.SetParameters(par1)
+
+            Dim par2 As New ReportParameter("series", ser)
+            Print1.ReportViewer1.LocalReport.SetParameters(par2)
+
+            Dim par3 As New ReportParameter("recv", from)
+            Print1.ReportViewer1.LocalReport.SetParameters(par3)
+
+            Dim par4 As New ReportParameter("Cour", cour)
+            Print1.ReportViewer1.LocalReport.SetParameters(par4)
+
+            Dim par5 As New ReportParameter("refno", refo)
+            Print1.ReportViewer1.LocalReport.SetParameters(par5)
+
+
+            Print1.ReportViewer1.RefreshReport()
+            Print1.ShowDialog()
+
+        Else
+
+            Dim from As String
+            Dim area1 As String = branch
+            Dim currentDate As Date = Date.Today
+            Dim ser As String = series
+            Dim datatable1 As DataTable
+            Dim dataset As New DataSet("Dataset")
+
+            If cbxSender.Text = String.Empty Then
+                from = " "
+            Else
+                from = cbxSender.Text
+            End If
+
+            datatable1 = New DataTable("Mydatatable")
+            datatable1.Columns.Add("goodId")
+            datatable1.Columns.Add("goodDes")
+            datatable1.Columns.Add("qty")
+
+
+            dataset.Tables.Add(datatable1)
+            For Each row As DataGridViewRow In dgvRecv.Rows
+                If Not row.IsNewRow Then
+                    Dim datarow2 As DataRow = datatable1.NewRow
+                    datarow2("goodId") = row.Cells(1).Value.ToString
+                    datarow2("goodDes") = row.Cells(2).Value.ToString
+                    datarow2("qty") = row.Cells(5).Value.ToString
+
+                    datatable1.Rows.Add(datarow2)
+                End If
+            Next
+
+            Dim reportDataSource As New ReportDataSource("DataSet1", datatable1)
+            Print1.ReportViewer1.LocalReport.DataSources.Clear()
+            Print1.ReportViewer1.LocalReport.DataSources.Add(reportDataSource)
+            Print1.ReportViewer1.LocalReport.ReportPath = q.path + "Receiving Transactions\Listing\Report1.rdlc"
+
+            Dim par As New ReportParameter("branch", area1)
+            Print1.ReportViewer1.LocalReport.SetParameters(par)
+
+            Dim par1 As New ReportParameter("date", currentDate)
+            Print1.ReportViewer1.LocalReport.SetParameters(par1)
+
+            Dim par2 As New ReportParameter("series", ser)
+            Print1.ReportViewer1.LocalReport.SetParameters(par2)
+
+            Dim par3 As New ReportParameter("recv", "Received From:" + from)
+            Print1.ReportViewer1.LocalReport.SetParameters(par3)
+
+            Print1.ReportViewer1.RefreshReport()
+
+            Print1.ShowDialog()
+
+        End If
+        btnAdd.PerformClick()
 
     End Sub
 End Class

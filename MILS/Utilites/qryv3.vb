@@ -1062,4 +1062,42 @@ Public Class qryv3
 
     End Sub
 
+    'Check the area
+    Public Sub FetchArea()
+
+        SQL.AddParam("@id", newHome.areaId)
+
+        SQL.ExecQueryDT("Select area from tblAreas where id = @id")
+        If SQL.HasException(True) Then Exit Sub
+
+        With recvGoodsMain
+            If SQL.RecordCountDT <> 0 Then
+                For Each r As DataRow In SQL.DBDT.Rows
+                    .branch = r(0)
+                Next
+            End If
+        End With
+
+        With releaseGoods
+            If SQL.RecordCountDT <> 0 Then
+                For Each r As DataRow In SQL.DBDT.Rows
+                    .branch = r(0)
+                Next
+            End If
+        End With
+
+    End Sub
+
+    'Check DATABASE NAME
+    Public Sub fetchdatabse()
+        SQL.ExecQueryDT("select DB_NAME() as db")
+        If SQL.HasException(True) Then Exit Sub
+        With newHome
+            If SQL.RecordCountDT <> 0 Then
+                For Each r As DataRow In SQL.DBDT.Rows
+                    .databse = r(0)
+                Next
+            End If
+        End With
+    End Sub
 End Class

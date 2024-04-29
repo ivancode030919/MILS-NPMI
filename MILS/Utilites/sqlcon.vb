@@ -7,8 +7,7 @@ Public Class sqlcon
 
     'Public DBCon As New SqlConnection("Data Source=172.16.10.218;Initial Catalog=EMILS_tes;User ID=HSDPi;Password=123456$hsdp")
 
-    ''EVERMORE DB
-
+    'NPMI DB
     Public DBCon As New SqlConnection("Data Source=172.16.7.7;Initial Catalog=PMNI_DB;User ID=HSDP_DEPOT;Password=123456$hsdp")
 
     Public DBCmd As SqlCommand

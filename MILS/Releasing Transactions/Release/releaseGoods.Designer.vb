@@ -22,8 +22,7 @@ Partial Class releaseGoods
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Dim DataGridViewCellStyle1 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
-        Dim DataGridViewCellStyle2 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
+        Dim DataGridViewCellStyle4 As System.Windows.Forms.DataGridViewCellStyle = New System.Windows.Forms.DataGridViewCellStyle()
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.Label12 = New System.Windows.Forms.Label()
@@ -54,6 +53,7 @@ Partial Class releaseGoods
         Me.btnAdd = New System.Windows.Forms.Button()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.dgvRels = New System.Windows.Forms.DataGridView()
+        Me.Button1 = New System.Windows.Forms.Button()
         Me.GroupBox1.SuspendLayout()
         Me.Panel1.SuspendLayout()
         CType(Me.dgvRels, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -393,23 +393,15 @@ Partial Class releaseGoods
         '
         Me.dgvRels.BackgroundColor = System.Drawing.Color.WhiteSmoke
         Me.dgvRels.BorderStyle = System.Windows.Forms.BorderStyle.None
-        DataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control
-        DataGridViewCellStyle1.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText
-        DataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.ControlLight
-        DataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.AppWorkspace
-        DataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
-        Me.dgvRels.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
+        DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
+        DataGridViewCellStyle4.BackColor = System.Drawing.SystemColors.Control
+        DataGridViewCellStyle4.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        DataGridViewCellStyle4.ForeColor = System.Drawing.SystemColors.WindowText
+        DataGridViewCellStyle4.SelectionBackColor = System.Drawing.SystemColors.ControlLight
+        DataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.AppWorkspace
+        DataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.[True]
+        Me.dgvRels.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle4
         Me.dgvRels.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        DataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window
-        DataGridViewCellStyle2.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        DataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(CType(CType(40, Byte), Integer), CType(CType(40, Byte), Integer), CType(CType(40, Byte), Integer))
-        DataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight
-        DataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText
-        DataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.[False]
-        Me.dgvRels.DefaultCellStyle = DataGridViewCellStyle2
         Me.dgvRels.Dock = System.Windows.Forms.DockStyle.Fill
         Me.dgvRels.GridColor = System.Drawing.Color.Silver
         Me.dgvRels.Location = New System.Drawing.Point(0, 0)
@@ -420,12 +412,25 @@ Partial Class releaseGoods
         Me.dgvRels.Size = New System.Drawing.Size(1187, 356)
         Me.dgvRels.TabIndex = 8
         '
+        'Button1
+        '
+        Me.Button1.Font = New System.Drawing.Font("Franklin Gothic Book", 13.0!, System.Drawing.FontStyle.Bold)
+        Me.Button1.Location = New System.Drawing.Point(807, 546)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(148, 30)
+        Me.Button1.TabIndex = 15
+        Me.Button1.Text = "Print"
+        Me.Button1.UseVisualStyleBackColor = True
+        Me.Button1.Visible = False
+        '
         'releaseGoods
         '
         Me.Appearance.Options.UseFont = True
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1201, 582)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.btnAdd)
         Me.Controls.Add(Me.GroupBox1)
@@ -481,4 +486,5 @@ Partial Class releaseGoods
     Friend WithEvents dgvRels As DataGridView
     Friend WithEvents Label12 As Label
     Friend WithEvents ComboBox1 As ComboBox
+    Friend WithEvents Button1 As Button
 End Class

@@ -1,12 +1,15 @@
-﻿Public Class releaseGoods
+﻿Imports Microsoft.Reporting.WinForms
+Public Class releaseGoods
     Private q As New qry
-
+    Private y As New qryv3
     'Private table As New DataTable("Table")
     Public docTypeId As String
     Public docRefTypeId As String
     Public receiverId As String
     Private slctedRow As Integer
     Public series1 As String = ""
+    Public branch As String = ""
+    Public area1 As String = ""
 
     Private Sub releaseGoods_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         newDGVFormat()
@@ -159,7 +162,7 @@
     Private Sub tbxDocType_Leave(sender As Object, e As EventArgs) Handles tbxDocType.Leave
         If Not String.IsNullOrWhiteSpace(tbxDocType.Text) Then
             'q.fetchIdDocType(tbxDocType.Text)
-
+            q.fetchIdDocTypeRels(tbxDocType.Text)
             'MsgBox(docTypeId)
         Else
 
@@ -301,6 +304,7 @@
             End With
             clearfields()
             cbxReceiver.Select()
+            Button1.Visible = True
             btnAdd.Text = "Record"
             l5.Visible = True
             newDGVFormat()
@@ -431,7 +435,6 @@
             q.FetchSeriesinReleasingCE()
             tbxDocNum.Text = series1
             tbxDocNum.Enabled = False
-
         Else
 
             Label9.Text = "Remarks :"
@@ -443,5 +446,216 @@
 
     Private Sub Button1_Click(sender As Object, e As EventArgs)
 
+    End Sub
+
+    Private Sub Button1_Click_1(sender As Object, e As EventArgs) Handles Button1.Click
+        y.FetchArea()
+        If cbxReceiver.Text = "SUPPLIER" Then
+
+            Dim remarks As String
+            Dim area2 As String = branch
+            Dim currentDate As Date = Date.Today
+            Dim ser As String = series1
+            Dim datatable1 As DataTable
+            Dim dataset As New DataSet("Dataset")
+            If ComboBox1.Text = String.Empty Then
+                remarks = " "
+            Else
+                remarks = ComboBox1.Text
+            End If
+            datatable1 = New DataTable("Mydatatable")
+            datatable1.Columns.Add("goodId")
+            datatable1.Columns.Add("goodDes")
+            datatable1.Columns.Add("qty")
+
+
+            dataset.Tables.Add(datatable1)
+            For Each row As DataGridViewRow In dgvRels.Rows
+                If Not row.IsNewRow Then
+                    Dim datarow2 As DataRow = datatable1.NewRow
+                    datarow2("goodId") = row.Cells(1).Value.ToString
+                    datarow2("goodDes") = row.Cells(2).Value.ToString
+                    datarow2("qty") = row.Cells(5).Value.ToString
+
+                    datatable1.Rows.Add(datarow2)
+                End If
+            Next
+
+
+            Dim reportDataSource As New ReportDataSource("DataSet2", datatable1)
+            Print2.ReportViewer2.LocalReport.DataSources.Clear()
+            Print2.ReportViewer2.LocalReport.DataSources.Add(reportDataSource)
+            'Purchase Return Form
+            Print2.ReportViewer2.LocalReport.ReportPath = q.path + "Releasing Transactions\Release Register\Report3.rdlc"
+
+            Dim par As New ReportParameter("branch", area2)
+            Print2.ReportViewer2.LocalReport.SetParameters(par)
+
+            Dim par1 As New ReportParameter("date", currentDate)
+            Print2.ReportViewer2.LocalReport.SetParameters(par1)
+
+            Dim par2 As New ReportParameter("series", ser)
+            Print2.ReportViewer2.LocalReport.SetParameters(par2)
+
+            Dim par3 As New ReportParameter("remarks", "Supplier: " + remarks)
+            Print2.ReportViewer2.LocalReport.SetParameters(par3)
+
+            Print2.ReportViewer2.RefreshReport()
+            Print2.pr = 2
+            Print2.ShowDialog()
+
+        ElseIf cbxReceiver.Text = "OS CUSTOMER" Then
+
+            Dim rels As String = cbxReceiver.Text
+            Dim area2 As String = branch
+            Dim currentDate As Date = Date.Today
+            Dim ser As String = series1
+            Dim datatable1 As DataTable
+            Dim dataset As New DataSet("Dataset")
+
+            datatable1 = New DataTable("Mydatatable")
+            datatable1.Columns.Add("goodId")
+            datatable1.Columns.Add("goodDes")
+            datatable1.Columns.Add("qty")
+
+
+            dataset.Tables.Add(datatable1)
+            For Each row As DataGridViewRow In dgvRels.Rows
+                If Not row.IsNewRow Then
+                    Dim datarow2 As DataRow = datatable1.NewRow
+                    datarow2("goodId") = row.Cells(1).Value.ToString
+                    datarow2("goodDes") = row.Cells(2).Value.ToString
+                    datarow2("qty") = row.Cells(5).Value.ToString
+
+                    datatable1.Rows.Add(datarow2)
+
+                End If
+            Next
+
+            Dim reportDataSource As New ReportDataSource("DataSet2", datatable1)
+            Print2.ReportViewer2.LocalReport.DataSources.Clear()
+            Print2.ReportViewer2.LocalReport.DataSources.Add(reportDataSource)
+            'Delivery Receipt
+            Print2.ReportViewer2.LocalReport.ReportPath = q.path + "Releasing Transactions\Release Register\Report5.rdlc"
+
+            Dim par As New ReportParameter("branch", area2)
+            Print2.ReportViewer2.LocalReport.SetParameters(par)
+
+            Dim par1 As New ReportParameter("date", currentDate)
+            Print2.ReportViewer2.LocalReport.SetParameters(par1)
+
+            Dim par2 As New ReportParameter("series", ser)
+            Print2.ReportViewer2.LocalReport.SetParameters(par2)
+
+            'Dim par3 As New ReportParameter("remarks", "Issued To: " + rels)
+            Dim par3 As New ReportParameter("remarks", rels)
+            Print2.ReportViewer2.LocalReport.SetParameters(par3)
+
+            Print2.ReportViewer2.RefreshReport()
+
+            Print2.pr = 1
+            Print2.ShowDialog()
+
+        ElseIf cbxReceiver.Text = "COMPANY EXPENSE" Then
+
+            Dim remark As String = ComboBox1.Text
+            Dim area2 As String = branch
+            Dim currentDate As Date = Date.Today
+            Dim ser As String = series1
+            Dim datatable1 As DataTable
+            Dim dataset As New DataSet("Dataset")
+
+            datatable1 = New DataTable("Mydatatable")
+            datatable1.Columns.Add("goodId")
+            datatable1.Columns.Add("goodDes")
+            datatable1.Columns.Add("qty")
+
+
+            dataset.Tables.Add(datatable1)
+            For Each row As DataGridViewRow In dgvRels.Rows
+                If Not row.IsNewRow Then
+                    Dim datarow2 As DataRow = datatable1.NewRow
+                    datarow2("goodId") = row.Cells(1).Value.ToString
+                    datarow2("goodDes") = row.Cells(2).Value.ToString
+                    datarow2("qty") = row.Cells(5).Value.ToString
+                    datatable1.Rows.Add(datarow2)
+                End If
+            Next
+
+            Dim reportDataSource As New ReportDataSource("DataSet2", datatable1)
+            Print2.ReportViewer2.LocalReport.DataSources.Clear()
+            Print2.ReportViewer2.LocalReport.DataSources.Add(reportDataSource)
+            Print2.ReportViewer2.LocalReport.ReportPath = q.path + "Releasing Transactions\Release Register\Report6.rdlc"
+
+            Dim par As New ReportParameter("branch", area2)
+            Print2.ReportViewer2.LocalReport.SetParameters(par)
+
+            Dim par1 As New ReportParameter("date", currentDate)
+            Print2.ReportViewer2.LocalReport.SetParameters(par1)
+
+            Dim par2 As New ReportParameter("series", ser)
+            Print2.ReportViewer2.LocalReport.SetParameters(par2)
+
+            Dim par3 As New ReportParameter("remarks", remark)
+            Print2.ReportViewer2.LocalReport.SetParameters(par3)
+
+            Print2.ReportViewer2.RefreshReport()
+
+            Print2.ShowDialog()
+
+        Else
+
+            Dim rels As String = cbxReceiver.Text
+            Dim area2 As String = branch
+            Dim currentDate As Date = Date.Today
+            Dim ser As String = series1
+            Dim datatable1 As DataTable
+            Dim dataset As New DataSet("Dataset")
+
+            datatable1 = New DataTable("Mydatatable")
+            datatable1.Columns.Add("goodId")
+            datatable1.Columns.Add("goodDes")
+            datatable1.Columns.Add("qty")
+
+
+            dataset.Tables.Add(datatable1)
+            For Each row As DataGridViewRow In dgvRels.Rows
+                If Not row.IsNewRow Then
+                    Dim datarow2 As DataRow = datatable1.NewRow
+                    datarow2("goodId") = row.Cells(1).Value.ToString
+                    datarow2("goodDes") = row.Cells(2).Value.ToString
+                    datarow2("qty") = row.Cells(5).Value.ToString
+
+                    datatable1.Rows.Add(datarow2)
+
+                End If
+            Next
+
+            Dim reportDataSource As New ReportDataSource("DataSet2", datatable1)
+            Print2.ReportViewer2.LocalReport.DataSources.Clear()
+            Print2.ReportViewer2.LocalReport.DataSources.Add(reportDataSource)
+            Print2.ReportViewer2.LocalReport.ReportPath = q.path + "Releasing Transactions\Release Register\Report2.rdlc"
+
+            Dim par As New ReportParameter("branch", area2)
+            Print2.ReportViewer2.LocalReport.SetParameters(par)
+
+            Dim par1 As New ReportParameter("date", currentDate)
+            Print2.ReportViewer2.LocalReport.SetParameters(par1)
+
+            Dim par2 As New ReportParameter("series", ser)
+            Print2.ReportViewer2.LocalReport.SetParameters(par2)
+
+            Dim par3 As New ReportParameter("Rel", "Issued To: " + rels)
+            'Dim par3 As New ReportParameter("remarks", rels)
+            Print2.ReportViewer2.LocalReport.SetParameters(par3)
+
+            Print2.ReportViewer2.RefreshReport()
+
+            Print2.pr = 1
+            Print2.ShowDialog()
+
+        End If
+
+        btnAdd.PerformClick()
     End Sub
 End Class

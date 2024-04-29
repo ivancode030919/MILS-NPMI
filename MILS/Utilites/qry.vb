@@ -17,8 +17,7 @@ Public Class qry
     Private f As New functions
 
     Public path As String = "\\172.16.7.7\MILS_v3\PMNI\MILS-NPMI\MILS\"
-    'Public path As String = "\\172.16.10.218\Users\HSDP_SYS_DEV\Desktop\WORK\PNMI\MILS-NPMI\MILS\"
-
+    'Public path As String = "\\172.16.10.218\Users\HSDP_SYS_DEV\Desktop\WORK\Evermore\MILS-Evermore\MILS\"
     Public Sub reportlog()
         Dim RPuser1 As String = "HSDP_DEPOT"
         Dim RPpass2 As String = "123456$hsdp"
@@ -302,8 +301,7 @@ Public Class qry
     End Sub 'Update area
 
     Public Sub suggestDocType(ByVal d As AutoCompleteStringCollection)
-        SQL.ExecQueryDT("SELECT remarks FROM tblDocumentTypes
-                        WHERE isIn = 1 and isPrimary = 1;")
+        SQL.ExecQueryDT("SELECT remarks FROM tblDocumentTypes WHERE isIn = 1 and isPrimary = 1;")
         If SQL.HasException(True) Then Exit Sub
         If SQL.RecordCountDT > 0 Then
             For Each r As DataRow In SQL.DBDT.Rows
@@ -314,28 +312,31 @@ Public Class qry
 
     Public Sub fetchIdDocType(t As String)
         SQL.AddParam("@t", t)
-        SQL.ExecQueryDT("SELECT id FROM tblDocumentTypes
-            WHERE isIn = 1 AND isPrimary = 1 AND remarks = @t;")
+        SQL.ExecQueryDT("SELECT id FROM tblDocumentTypes WHERE isIn = 1 AND isPrimary = 1 AND remarks = @t;")
         If SQL.HasException(True) Then Exit Sub
         With recvGoodsMain
             If SQL.RecordCountDT <> 0 Then
                 For Each r As DataRow In SQL.DBDT.Rows
+                    .docTypeId = ""
                     .docTypeId = r(0)
                 Next
-
-
             Else
-
+                .docTypeId = ""
+                .tbxDocType.Text = ""
             End If
         End With
         With recvListingDetails
             If SQL.RecordCountDT <> 0 Then
                 For Each r As DataRow In SQL.DBDT.Rows
+                    .docTypeId = ""
                     .docTypeId = r(0)
                 Next
-
+            Else
+                .docTypeId = ""
+                .tbxDocType.Text = ""
             End If
         End With
+
     End Sub
 
     'Get The Reference Document Code
@@ -345,6 +346,16 @@ Public Class qry
         If SQL.HasException(True) Then Exit Sub
 
         With recvListingDetails
+
+            If SQL.RecordCountDT <> 0 Then
+                For Each r As DataRow In SQL.DBDT.Rows
+                    .docCode = r(0)
+                Next
+            End If
+
+        End With
+
+        With recvGoodsMain
 
             If SQL.RecordCountDT <> 0 Then
                 For Each r As DataRow In SQL.DBDT.Rows
@@ -1018,6 +1029,7 @@ Public Class qry
             .dgvRecv.Enabled = False
             .tbxEntry.Text = transId
             .btnAdd.Text = "Add New Entry"
+            .Button1.Visible = True
             .btnAdd.Select()
             .lblErr.Visible = True
             .lblErr.ForeColor = Color.Green
@@ -2023,7 +2035,7 @@ Public Class qry
                 Next
             Else
                 .docTypeId = ""
-
+                .tbxDocType.Text = ""
             End If
         End With
     End Sub
@@ -2415,6 +2427,7 @@ Public Class qry
             .dgvRels.AllowUserToAddRows = False
             .dgvRels.Enabled = False
             .tbxEntry.Text = transId
+            .Button1.Visible = True
             .btnAdd.Text = "Add New Entry"
             .btnAdd.Select()
         End With
@@ -8131,6 +8144,47 @@ FROM tblProductsABHeaders T1
         End If
     End Sub
 
+    'fetch series for Document Number in Releasing : Goods Receipt Form : For Company expense
+    Public Sub FetchSeriesinReleasingCE()
+
+        SQL.ExecQueryDT("Select TOP 1 series from tblRelsHeader where docType = 50027 order by id desc")
+
+        ' Check for any exceptions during the SQL query execution
+        If SQL.HasException(True) Then Exit Sub
+
+        ' Check if there is a record returned from the query
+        If SQL.RecordCountDT <> 0 Then
+            ' Retrieve the series value from the first row of the result
+            Dim originalSeries As String
+            originalSeries = SQL.DBDT.Rows(0)("series").ToString()
+
+            ' Extract the numeric part from the series value
+            Dim numericPart As Integer
+
+            If Integer.TryParse(originalSeries.Split("-"c)(1), numericPart) Then
+                ' Increment the numeric part by 1
+                numericPart += 1
+
+                ' Format the incremented series value back into the original format
+                Dim incrementedSeries As String = "1-" & numericPart.ToString("00000")
+
+                With releaseGoods
+                    .series1 = incrementedSeries
+                End With
+
+            End If
+
+        Else
+
+            Dim defaultSeries As String = "1-00001"
+
+            With releaseGoods
+                .series1 = defaultSeries
+            End With
+
+        End If
+    End Sub
+
     'fetch series for Document Number in Releasing : Purchase Return
     Public Sub FetchSeriesinReleasing1()
         ' Execute the SQL query to retrieve the top series from tblrecvseries
@@ -8361,47 +8415,6 @@ FROM tblProductsABHeaders T1
             With recvGoodsMain
                 .series = defaultSeries
             End With
-        End If
-    End Sub
-
-    'fetch series for Document Number in Releasing : Goods Receipt Form : For Company expense
-    Public Sub FetchSeriesinReleasingCE()
-
-        SQL.ExecQueryDT("Select TOP 1 series from tblRelsHeader where docType = 50027 order by id desc")
-
-        ' Check for any exceptions during the SQL query execution
-        If SQL.HasException(True) Then Exit Sub
-
-        ' Check if there is a record returned from the query
-        If SQL.RecordCountDT <> 0 Then
-            ' Retrieve the series value from the first row of the result
-            Dim originalSeries As String
-            originalSeries = SQL.DBDT.Rows(0)("series").ToString()
-
-            ' Extract the numeric part from the series value
-            Dim numericPart As Integer
-
-            If Integer.TryParse(originalSeries.Split("-"c)(1), numericPart) Then
-                ' Increment the numeric part by 1
-                numericPart += 1
-
-                ' Format the incremented series value back into the original format
-                Dim incrementedSeries As String = "1-" & numericPart.ToString("00000")
-
-                With releaseGoods
-                    .series1 = incrementedSeries
-                End With
-
-            End If
-
-        Else
-
-            Dim defaultSeries As String = "1-00001"
-
-            With releaseGoods
-                .series1 = defaultSeries
-            End With
-
         End If
     End Sub
 

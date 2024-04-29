@@ -57,6 +57,7 @@ Partial Class recvGoodsMain
         Me.Label17 = New System.Windows.Forms.Label()
         Me.ComboBox1 = New System.Windows.Forms.ComboBox()
         Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.Button1 = New System.Windows.Forms.Button()
         CType(Me.dgvRecv, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.GroupBox4.SuspendLayout()
         Me.Panel1.SuspendLayout()
@@ -468,12 +469,25 @@ Partial Class recvGoodsMain
         Me.Panel1.Size = New System.Drawing.Size(1191, 353)
         Me.Panel1.TabIndex = 48
         '
+        'Button1
+        '
+        Me.Button1.Font = New System.Drawing.Font("Franklin Gothic Book", 13.0!, System.Drawing.FontStyle.Bold)
+        Me.Button1.Location = New System.Drawing.Point(806, 542)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(140, 30)
+        Me.Button1.TabIndex = 49
+        Me.Button1.Text = "Print"
+        Me.Button1.UseVisualStyleBackColor = True
+        Me.Button1.Visible = False
+        '
         'recvGoodsMain
         '
         Me.Appearance.Options.UseFont = True
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(1201, 582)
+        Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.GroupBox4)
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.btnAdd)
@@ -531,4 +545,5 @@ Partial Class recvGoodsMain
     Friend WithEvents Label17 As Label
     Friend WithEvents Label18 As Label
     Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents Button1 As Button
 End Class
